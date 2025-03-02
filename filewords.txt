@@ -1,0 +1,10 @@
+Amigo
+Casas
+Libro
+Mesas
+Arbol
+Juego
+Plato
+Radio
+Barco
+Cielo
